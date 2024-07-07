@@ -1,0 +1,1 @@
+export const test_url = "http://localhost:3000/hw/store";
